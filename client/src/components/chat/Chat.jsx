@@ -18,7 +18,8 @@ const Chat = () => {
       const [messages,setMessages]=React.useState([]);
 
 
-      const ENDPOINT='http://localhost:3000';
+      // const ENDPOINT='http://localhost:3000';
+      const ENDPOINT='https://chathub-ne7d.onrender.com';
       
       
       
